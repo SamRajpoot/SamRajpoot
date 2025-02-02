@@ -3,11 +3,11 @@
 
 
 ## 📊 GitHub Stats:
-![Sameer Nasir's Stats](https://github-readme-stats.vercel.app/api?username=MazharRehan&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![Sameer Nasir's Stats](https://github-readme-stats.vercel.app/api?username=SameerNasir&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
-![Sameer Nasir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MazharRehan&theme=algolia&hide_border=true)
+![Sameer Nasir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameerNasir&theme=algolia&hide_border=true)
 
-![Sameer Nasir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazharRehan&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![Sameer Nasir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerNasir&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
