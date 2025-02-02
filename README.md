@@ -15,12 +15,15 @@
 
 
 ## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553237406905) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/x._sameeeer/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-nasir-t01/)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 <!--
-**MazharRehan/MazharRehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SameerNasir/SameerNasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
