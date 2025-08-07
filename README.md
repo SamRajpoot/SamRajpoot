@@ -63,8 +63,11 @@ A browser-based, privacy-first ML platform designed for non-technical users. Tra
   <a href="https://github.com/SamRajpoot" target=">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="38" />
   </a>
-  <a href="mailto:sameernasir045@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="38" />
+ <a href="https://www.facebook.com/profile.php?id=61553237406905" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="38" />
+  </a>
+  <a href="https://www.instagram.com/x._sameeeer/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="38" />
   </a>
   <a href="https://linkedin.com/in/sameer-nasir-t01/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="38" />
@@ -88,14 +91,3 @@ I am open to exciting opportunities in software engineering, AI/ML, and innovati
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
   </a>
 </p>
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553237406905) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/x._sameeeer/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-nasir-t01/)
-
-
-<!-- [!["Buy Me A Pizza"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png) -->
-<a href="/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
