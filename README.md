@@ -60,7 +60,7 @@ A browser-based, privacy-first ML platform designed for non-technical users. Tra
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/SamRajpoot" target="_blank">
+  <a href="https://github.com/SamRajpoot" target=">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="38" />
   </a>
   <a href="mailto:sameernasir045@gmail.com">
