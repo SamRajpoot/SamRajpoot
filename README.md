@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Sameer Nasir</h1>
+<h1 align="center">Hi there 👋, I'm Sam Rajpoot</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 
 ## 📊 GitHub Stats:
-![Sameer Nasir's Stats](https://github-readme-stats.vercel.app/api?username=SameerNasir&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![Sam Rajpoot's Stats](https://github-readme-stats.vercel.app/api?username=SamRajpoot&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
-![Sameer Nasir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameerNasir&theme=algolia&hide_border=true)
+![Sam Rajpoot's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamRajpoot&theme=algolia&hide_border=true)
 
-![Sameer Nasir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerNasir&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![Sam Rajpoot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamRajpoot&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
@@ -24,7 +24,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 <!--
-**SameerNasir/SameerNasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SamRajpoot/SamRajpoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
