@@ -2,16 +2,92 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
-## 📊 GitHub Stats:
-![Sameer Nasir's Stats](https://github-readme-stats.vercel.app/api?username=SameerNasir&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+Welcome to my GitHub profile! I am a dedicated and results-oriented Software Engineer based in Lahore, Pakistan, with a passion for building impactful and scalable web applications. My journey in software engineering is driven by curiosity, creativity, and the desire to make technology accessible to everyone.
 
-![Sameer Nasir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameerNasir&theme=algolia&hide_border=true)
+---
 
-![Sameer Nasir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerNasir&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+## 👨‍💻 About Me
 
+- 🎓 **Education:**  
+  **BS in Software Engineering**  
+  University of Central Punjab, Lahore (2021–2025)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💼 **Professional Focus:**  
+  Full-Stack Web Development | Machine Learning | Real-Time Systems | UI/UX Engineering
+
+- 🏆 **Core Strengths:**  
+  - End-to-end project ownership — from ideation to deployment
+  - Agile collaboration and effective communication
+  - Accessibility advocacy and user-centric design
+  - Privacy-first engineering
+
+---
+
+## 🛠️ Technology Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow/TensorFlow.js" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="32" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### IntelliTrain — No-Code Machine Learning Platform
+A browser-based, privacy-first ML platform designed for non-technical users. Train and deploy custom models for image, audio, and pose recognition — all in the browser with no installation required.
+
+- **Tech:** React.js, Node.js, TensorFlow.js, MERN Stack  
+- **Highlights:** Real-time training, exportable models, accessibility focused, modular and scalable
+- **Impact:** Democratizing AI for educators, researchers, and small businesses
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/SamRajpoot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="38" />
+  </a>
+  <a href="mailto:sameernasir045@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="38" />
+  </a>
+  <a href="https://linkedin.com/in/sameer-nasir-t01/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="38" />
+  </a>
+  <a href="https://sameernasirdev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="32"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Collaborate!
+
+I am open to exciting opportunities in software engineering, AI/ML, and innovative web projects. I enjoy collaborating with diverse teams and contributing to impactful open-source initiatives.
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by! Let’s connect & build something amazing together.</b><br><br>
+  <a href="https://www.buymeacoffee.com/samernasir" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+</p>
 
 
 
@@ -20,23 +96,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/x._sameeeer/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-nasir-t01/)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-<!--
-**SameerNasir/SameerNasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- [!["Buy Me A Pizza"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png) -->
 <a href="/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
